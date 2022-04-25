@@ -5,6 +5,7 @@ Hello everyone I am Kritik Sah, a new software developer. trying to build things
 https://www.youtube.com/c/ITRebels
 
 This Domain for sale landing page is very useful if you have a domain to sell but want to save from third party like godaddy or dan etc.
+Demo: https://kritik-sah.github.io/domain4sale/
 ## Features
 
 - Complete responsive (displayed perfectly on every devices)
